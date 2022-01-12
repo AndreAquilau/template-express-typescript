@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "AndreAquilau",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.7",
