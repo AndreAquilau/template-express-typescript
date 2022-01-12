@@ -6,6 +6,8 @@ npm init -y
 npm i -S express
 
 npm i -D typescript ts-node-dev @types/express
+
+npx tsc init
 ```
 
 #### Babel
